@@ -1,2 +1,5 @@
-LICENSE
-*.md
+# Ignore everything
+**
+
+# Allow only source.txt
+!./source.txt
